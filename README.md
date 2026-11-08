@@ -4,9 +4,9 @@
 
 **[下载最新 Windows 版](https://github.com/Y33STUDIO/Case-Studio-Downloads/releases/latest)**
 
-下载发布页中的 `Case-Studio-*-Windows.zip`。GitHub 自动显示的 “Source code” 压缩包只包含本下载页的说明文档，不能用来运行软件。
+打开下载页后，点击页面顶部的 **「⬇ 点击下载 Windows 版」** 即可。第一次使用只需下载这一个 ZIP。
 
-新用户请选择普通的 `Case-Studio-<版本>-Windows.zip`。`personal-update.zip` 是个人版在线更新用包，由原个人版程序自动选择；两种更新不会互换库存目录。
+下方标注「自动更新专用」的附件交给软件使用，无需手动下载。GitHub 自动列出的 “Source code” 只是下载页文档，不能运行软件。
 
 ## 可以做什么
 
