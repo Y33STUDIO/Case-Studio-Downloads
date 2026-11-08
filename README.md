@@ -6,6 +6,8 @@
 
 下载发布页中的 `Case-Studio-*-Windows.zip`。GitHub 自动显示的 “Source code” 压缩包只包含本下载页的说明文档，不能用来运行软件。
 
+新用户请选择普通的 `Case-Studio-<版本>-Windows.zip`。`personal-update.zip` 是个人版在线更新用包，由原个人版程序自动选择；两种更新不会互换库存目录。
+
 ## 可以做什么
 
 - 按品牌、手机型号或店内条码查库存。
